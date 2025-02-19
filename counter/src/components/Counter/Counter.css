@@ -1,0 +1,10 @@
+.Counter_body {
+  background-color: aqua;
+  height: 400px;
+  width: 400px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

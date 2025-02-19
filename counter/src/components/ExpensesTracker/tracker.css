@@ -1,0 +1,33 @@
+.red {
+  background-color: rgb(216, 66, 66);
+}
+
+.green {
+  background-color: rgb(106, 209, 106);
+}
+
+li {
+  list-style: none;
+}
+
+.list {
+  margin: 20px;
+  width: 400px;
+  display: flex;
+}
+
+.main_section {
+  display: flex;
+  background-color: beige;
+  width: 700px;
+  border-radius: 10px;
+}
+
+.section_1 {
+  padding: 20px;
+}
+
+.section_3 {
+  overflow-y: scroll;
+  height: 200px;
+}

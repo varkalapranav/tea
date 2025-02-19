@@ -1,0 +1,23 @@
+.count {
+  background-color: rgb(189, 121, 37);
+  height: 400px;
+  width: 400px;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+.para {
+  background-color: white;
+  height: 50px;
+  width: 50px;
+  justify-content: center;
+  display: flex;
+}
+
+.btns {
+  height: 100px;
+}
+.inc_btn {
+  background-color: rgba(255, 255, 255, 0.774);
+  height: 30px;
+}
